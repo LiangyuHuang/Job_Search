@@ -52,7 +52,7 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36',
     'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
     'Accept': 'application/json, text/javascript, */*; q=0.01',
-    'Referer': 'https://www.lagou.com/jobs/list_java?px=new&city=%E4%B8%8A%E6%B5%B7',
+    'Referer': 'https://www.lagou.com/jobs/list_%E5%B8%82%E5%9C%BA%E8%BF%90%E8%90%A5/p-city_0?px=default#filterBox',
     'X-Requested-With': 'XMLHttpRequest',
     'Connection': 'keep-alive',
     'X-Anit-Forge-Token': 'None',
